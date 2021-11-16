@@ -7,7 +7,7 @@
     "start": "./node_modules/.bin/nodemon ajax.js"
   },
   "dependencies": {
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "multer": "^1.4.2",
